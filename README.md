@@ -17,7 +17,7 @@ The dataset contains images and multiple-choice questions focused on educational
 - **Images**: Around 14,457 images are grouped into folders by question topic.
 - **Questions**: Spanning various subjects like natural sciences, social studies, and grammar, with 3-5 answer options each.
 - **Annotations**: Each image is paired with relevant questions and annotated with correct answers for supervised training.
-
+  You can download the dataset from 
 ## Methodology
 
 1. **Image Processing**: Images are preprocessed and converted into patches for the Vision Transformer.
