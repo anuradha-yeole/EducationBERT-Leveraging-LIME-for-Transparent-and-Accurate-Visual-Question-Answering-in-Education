@@ -37,6 +37,10 @@ With LIME integrated, performance improved across all metrics:
 - **Accuracy**: Increased from 62.5% to 68.2%
 - **Macro F1 Score**: Increased from 60.3% to 66.7%
 - **WUPS@0.9**: Increased from 63.8% to 69.0%
+  
+## Results
+![Discriminator (3) (1)](https://github.com/user-attachments/assets/5f83ab34-336e-4177-8aa8-83fa5e58489f)
+
 
 ## Requirements
 
